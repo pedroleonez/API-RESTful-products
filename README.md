@@ -25,8 +25,8 @@ This is a Spring Boot application that provides a RESTful API for managing produ
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/springboot-products-api.git
-    cd springboot-products-api
+    git clone https://github.com/pedroleonez/API-RESTful-products.git
+    cd API-RESTful-products
     ```
 
 2. Configure the PostgreSQL database in `src/main/resources/application.properties`:
